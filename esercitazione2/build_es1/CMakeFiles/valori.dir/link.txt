@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow -Werror=vla -Wl,--dependency-file=CMakeFiles/valori.dir/link.d CMakeFiles/valori.dir/es2.cpp.o -o valori
